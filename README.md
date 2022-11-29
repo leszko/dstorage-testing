@@ -2,7 +2,7 @@
 
 ## Download
 ```
-python download.py
+python download.py <playback_url> <output_directory>
 ```
 
 ## STORJ
