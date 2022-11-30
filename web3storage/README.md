@@ -60,4 +60,4 @@ https://bafybeibowt4rc4g2lahrl4e7esuwykfrf35ciid6i6lzbcz33czk3wzcjq.ipfs.w3s.lin
 
 ### 4. Play video after some time
 
-When we wait for some time (from 15 min to a few hours) the video starts to play, but the playback always fails while reading some of the segments. The user experience the video to pause or stop and the logs indicates that the given segment could not be retrieved in time.
+When we wait for some time (from 30 min to a few hours) the video starts to play, but the playback always fails while reading some of the segments. From the user experience, the video pauses or stops at some point.
