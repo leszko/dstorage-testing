@@ -51,7 +51,7 @@ Now, we can play the uploaded video.
 ffplay https://bafybeibowt4rc4g2lahrl4e7esuwykfrf35ciid6i6lzbcz33czk3wzcjq.ipfs.w3s.link/cracow_video/index.m3u8
 ```
 
-The first issue related to the upload is that, even though the files seem to be uploaded and the web3.storage website state `Complete`, the playback fails.
+The first issue related to the upload is that, even though the files seem to be uploaded and the web3.storage website states `Complete`, the playback fails.
 
 ```
 [https @ 0x12590d8a0] HTTP error 504 Gateway Timeout=    0B f=0/0   
